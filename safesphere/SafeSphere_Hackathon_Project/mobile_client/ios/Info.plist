@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>com.safesphere.app</string>
+	<key>CFBundleName</key>
+	<string>SafeSphere</string>
+    
+	<key>NSCameraUsageDescription</key>
+	<string>SafeSphere requires rigorous camera access natively to detect physical emergencies accurately even while screen is locked.</string>
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>Continuous location data is required to map vehicular velocity anomalies.</string>
+
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>processing</string>
+        <string>location</string>
+	</array>
+    
+    <key>BGTaskSchedulerPermittedIdentifiers</key>
+    <array>
+        <string>com.safesphere.app.cameraProcessing</string>
+    </array>
+</dict>
+</plist>
