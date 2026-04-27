@@ -1,0 +1,1 @@
+export default function Telemetry() { return <div>Live telemetry tracker component</div>; }

@@ -1,0 +1,1 @@
+export default function Dashboard() { return <div>Dashboard - Live telemetry tracker + camera AI + GPS location</div>; }

@@ -1,0 +1,1 @@
+export default function LocationTracker() { return <div>Live GPS location display</div>; }

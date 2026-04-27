@@ -1,0 +1,1 @@
+export default function CameraAI() { return <div>TensorFlow.js camera AI detection</div>; }

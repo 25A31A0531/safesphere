@@ -1,0 +1,1 @@
+export default function Contacts() { return <div>Emergency contacts menu (add/edit/delete)</div>; }

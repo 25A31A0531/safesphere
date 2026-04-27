@@ -1,0 +1,1 @@
+export default function Triggers() { return <div>Manual trigger buttons with cancel timers</div>; }

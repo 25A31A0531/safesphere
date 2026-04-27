@@ -1,0 +1,1 @@
+export default function AuthButtons() { return <button>Google/Facebook Login</button>; }
