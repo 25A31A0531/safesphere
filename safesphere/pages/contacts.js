@@ -1,1 +1,0 @@
-export default function Contacts() { return <div>Emergency Contacts</div>; }

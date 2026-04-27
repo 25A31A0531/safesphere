@@ -1,1 +1,0 @@
-export default function CameraAI() { return <div>Camera AI</div>; }

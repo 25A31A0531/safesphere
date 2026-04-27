@@ -1,1 +1,0 @@
-export default function Triggers() { return <div>Manual Triggers</div>; }

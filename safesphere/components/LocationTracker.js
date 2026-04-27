@@ -1,1 +1,0 @@
-export default function LocationTracker() { return <div>Location Tracker</div>; }
