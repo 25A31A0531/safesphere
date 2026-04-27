@@ -1,0 +1,1 @@
+export default function TriggerButton() { return <button>Trigger</button>; }
