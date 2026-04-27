@@ -1,1 +1,0 @@
-export default function Home() { return <div>Home Page - Google/Facebook sign-in</div>; }

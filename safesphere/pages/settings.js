@@ -1,1 +1,0 @@
-export default function Settings() { return <div>Bluetooth connection + preferences</div>; }
